@@ -1,2 +1,2 @@
 # hello-world
-A crackhead would be coder
+A crackhead
